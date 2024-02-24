@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paslian&label=Profile%20views&color=0e75b6&style=flat" alt="paslian" /> </p>
 
-- 🌱 I’m currently learning **Next Js and React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/paslian](https://github.com/paslian)
 
 - 📫 How to reach me **paslianp5@gmail.com**
