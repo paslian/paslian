@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paslian Sahat Rafael</h1>
 <h3 align="center">Jakarta State Polytechnic undergraduate majoring in informatics engineering 💻</h3>
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paslian&label=Profile%20views&color=0e75b6&style=flat" alt="paslian" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/paslian](https://github.com/paslian)
