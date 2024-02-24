@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paslian Sahat Rafael</h1>
 <h3 align="center">Jakarta State Polytechnic undergraduate majoring in informatics engineering 💻</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0SbSIStJkTIZsC-0bMF7Ih&ust=1708866750529000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC03O-GxIQDFQAAAAAdAAAAABAJ"/>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding-language&psig=AOvVaw0SbSIStJkTIZsC-0bMF7Ih&ust=1708866750529000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC03O-GxIQDFQAAAAAdAAAAABAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paslian&label=Profile%20views&color=0e75b6&style=flat" alt="paslian" /> </p>
 
